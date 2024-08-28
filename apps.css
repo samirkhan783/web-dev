@@ -1,0 +1,182 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-color: aliceblue;
+}
+#header{
+     background-color:white;
+     height: 10%;
+     width: 100%;
+     position: fixed;
+     display: flex;
+     align-items: center;
+}
+#page1{
+    height: 90%;
+    width: 100%;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(29, 29, 15);
+}
+.text{
+    color: rgb(5, 5, 85);
+     margin: 20px;
+}
+.logo{
+        margin: 30px;
+}
+#CD{
+   margin: 30px;
+   color:black;
+}
+.icon{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+}
+#img{
+    margin: 40px;
+}
+#one:hover{
+background-color:rgb(183, 225, 241);
+}
+#tow:hover{
+    background-color:rgb(183, 225, 241);
+    }
+ #three:hover{
+  background-color:rgb(183, 225, 241);
+  }
+ .text:hover{
+    color: skyblue;
+ } 
+ #CD:hover{
+    color: skyblue;
+ }
+ #tryone{
+    background-color: green;
+    padding: 3px;
+ }
+ #tryone:hover{
+    background-color: rgb(159, 196, 159);
+    
+ }
+  #page1{
+    height: 90%;
+    width: 100%;
+    background-color:wheat;
+  }
+  #strip{
+height: 15%;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+ background-color: blue;
+
+  }
+  #black{
+    color: black;
+  }
+  #fixedP{
+ position: absolute;
+ top: 63px;
+ color: wheat;
+}
+#contant{
+    height: 85%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+ 
+}
+#l{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+#heading{
+font-weight:600;
+}
+#box1{
+    height: 90%;
+    width: 50%;
+     margin: 10px;
+    background-color: white;
+}
+#box2{
+    height: 90%;
+    width: 50%;
+     margin: 10px;
+}
+#btn1{
+    padding: 10px 20px;
+    color: white;
+    background-color: lightblue;
+    
+}
+#btn2{
+    padding: 10px 20px;
+    color: rgb(24, 1, 1);
+    border: 1px solid lightblue;
+    margin: 10px;
+}
+#btn{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 10;
+}
+#btn1:hover{
+     background-color: rgb(3, 70, 92);
+     border-color: black;
+}
+#btn2:hover{
+    background-color: rgb(3, 70, 92);
+  
+}
+#try{
+    color: blue;
+
+}
+#try1{
+    color: rgb(10, 0, 0);
+}
+#box2{
+     background-image: url();
+      height:auto;
+      width: auto;
+}
+.one{
+    height: 500px;
+    width: 500px;
+    
+}
+#w1{
+    height: 500px;
+    width: 500px;
+}
+#w2{
+    height: 500px;
+    width: 500px;
+}
+#wc{
+    color: white;
+}
+#all{
+    display: flex;
+}
